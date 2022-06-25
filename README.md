@@ -1,5 +1,5 @@
 
-# Basic Javascript Project
+# JavaScript Basics Project
 
 In this simple project you can increase or decrease a counter that start from 0.
 
