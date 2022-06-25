@@ -17,6 +17,6 @@ I added an additional button to reset the value of the counter.
 
 To try my counter follow the link below!
 
-https://basic-javascript-project.netlify.app/
+[https://js-basics-project.netlify.app/](https://js-basics-project.netlify.app/)
 
 Thanks for your attention! 
