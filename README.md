@@ -1,28 +1,22 @@
-Basic Javascript project for Start2Impact 
+
+# Basic Javascript Project
 
 In this simple project you can increase or decrease a counter that start from 0.
 
-I add an additional button to reset the value of the counter.
+I added an additional button to reset the value of the counter.
 
+# What i use to create it
 
-What i used to create it
+- HTML
+- CSS
+- JAVASCRIPT
 
-To create this project i worked using: 
+# Where to try it
 
-HTML
-CSS
-JAVASCRIPT
-
-
-Where try it 
-
- 
+![App Screenshot](/assets/img/screenshot.jpg)
 
 To try my counter follow the link below!
 
 https://basic-javascript-project.netlify.app/
 
-Thanks for your attention!
-
-
-
+Thanks for your attention! 
